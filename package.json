@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "main": "build/main.ts",
+  "main": "build/main.js",
   "license": "UNLICENSED",
   "scripts": {
     "build": "tsc",
